@@ -1,0 +1,15 @@
+// props = read-only properties that are shared between components.
+//         A parent component can send data to a child component.
+//         <Component key=value />
+
+note-- When we send the key value pair to the component it is shaved in the props and then the child takes it by by calling props.name
+
+note-- When you create a key value and the value is not a string then it should be in {} for e.g= age={18}
+
+note-- You cant print a boolean data , so better use a terneirary operator or {props.isStudent && "true" }
+
+// proptypes = a mechanism that ensures that the passed value is of the correct datatype.
+//              age: PropTypes.number
+
+// defaultProps = default values for props in case they are not passed from the parent component 
+//               name: Guest

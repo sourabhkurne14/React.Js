@@ -1,0 +1,1 @@
+In React, useEffect is like a tool to do things outside of your component, like fetching data, updating the browser title, or setting timers. It also helps you clean up when your component is removed from the screen.

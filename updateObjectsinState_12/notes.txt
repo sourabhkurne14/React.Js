@@ -1,0 +1,2 @@
+SpreadOperator --> In React, the spread operator (...) is used to expand an object or array into its individual elements. 
+

@@ -1,0 +1,4 @@
+_ if this is in the parameter it means it is ignored
+
+Why _ is Used:
+Using _ is a convention to indicate that the parameter is not used. If you wanted to use the value, you could name it something meaningful:

@@ -1,0 +1,10 @@
+The useState() is a React hook that lets you declare and manage state variables in a functional component. It returns an array containing two elements: the current state value and a function to update that value.
+
+A hook is a special function in React that allows you to "hook into" React's state and lifecycle features within functional components, without writing a class component. Hooks start with the word "use" (e.g., useState, useEffect).
+
+note-- if a function starts with use it mainly hook
+we use hook in functional components not in a class component
+
+steps-- To use the react Hook we have to import it
+
+Note -- The useState function return a array with two elements a variables and a setter function

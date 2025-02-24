@@ -1,0 +1,1 @@
+Note--In React, inline styles are set using JavaScript objects, which is why you need to use double curly braces when specifying CSS inline.

@@ -1,0 +1,5 @@
+note--with modules we dont have to worry about naming conflicts
+
+rules -- 1. While styling css in the js 
+we should not use - and all values should be inside "" and each property should be comma , separated
+After making styling we have to insert it using style attribute and the insert the styles objects in that

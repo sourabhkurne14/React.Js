@@ -1,0 +1,1 @@
+useContext -->> useContext is a React Hook that allows you to access the value of a React Context directly, without needing to wrap components with the Context.Consumer. It simplifies the process of sharing state or data across multiple components in a React application, especially when those components are deeply nested.

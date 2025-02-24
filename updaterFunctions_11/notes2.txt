@@ -1,0 +1,1 @@
+Updater function ==>> An updater function in React refers to a function used to update the state when working with the useState hook or the setState method in class components. It allows you to modify the current state by passing either a new value or a function that computes the new value based on the previous state.

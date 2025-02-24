@@ -1,0 +1,8 @@
+&nbsp;  <<-- This is used fro giving space
+
+Used fiter and map method in this programing
+
+{/* {fruits.length > 0 ? <List items={fruits} category="Fruits" /> : null} */}
+This is equal to this 
+      {fruits.length > 0 && <List items={fruits} category="Fruits" /> } -->> this is short cursite
+      

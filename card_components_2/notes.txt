@@ -1,0 +1,17 @@
+first step is create a vite with --npm create vite@latest
+
+To restart the server cd my-react-app -- npm run dev
+
+To make a function component--
+ function Header(){
+}
+export default Header
+
+<Header/> == <Header></Header>
+
+note--you cant place a childern element in one element else it will be counted as one element
+What is a React Fragment?
+
+to use javascript in return statement you sholud use {} abd outside of it you dont
+
+note-- We can keep on using a component multiple of times

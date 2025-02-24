@@ -1,0 +1,3 @@
+Note--->>>
+the usecallback is same as usememo 
+The usememo memoize the variable  and the usecallback memoize the function

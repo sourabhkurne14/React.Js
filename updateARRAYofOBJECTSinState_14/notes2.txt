@@ -1,0 +1,1 @@
+new Date().getFullYear -->> Used to get the full current year

@@ -1,0 +1,2 @@
+in react whenever the value is changed whole component is rerendered 
+so to avoid this useMemo hook is used 
